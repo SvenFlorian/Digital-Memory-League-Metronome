@@ -24,7 +24,7 @@ Only works with AutoHotkey on Windows. Other platforms are as far as I am aware,
 5.  Memorise! 
 6.  Profit! :D
 
-**Alternative video explanation:** [http://www.youtube.com/watch?v=hwzv7hgSWUU](http://www.youtube.com/watch?v=hwzv7hgSWUU)
+**Alternative video explanation:** [https://youtu.be/hwzv7hgSWUU](https://youtu.be/hwzv7hgSWUU)
 
 ## When Not To Use It
 
