@@ -1,4 +1,4 @@
-# Digital Memory League Metronome
+# Digital Memory League Metronome Script
 
 ----------
 
