@@ -13,7 +13,7 @@ Only works with AutoHotkey on Windows. Other platforms are as far as I am aware,
 ## Setup
 
 1. Install AutoHotkey ([https://autohotkey.com/](https://autohotkey.com/)).
-2. Download the example script and adjust it to your liking.
+2. Download the [example script](https://github.com/SvenFlorian/Digital-Memory-League-Metronome/blob/master/CardsExample.ahk) and adjust it to your liking.
 
 ## How To Use
 
