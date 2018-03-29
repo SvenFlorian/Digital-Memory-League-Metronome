@@ -52,3 +52,4 @@ I am not affiliated with the team behind Memory League, without whose work and e
 
 ## Contact
 
+You can easily reach me by sending an email to florianminges@gmail.com.
