@@ -30,6 +30,8 @@ Only works with AutoHotkey on Windows. Other platforms are as far as I am aware,
 
 Although I wouldn't classify it as cheating, for now I would highly discourage you from using the script in any types of competitions or league matches, until the community has taken a stance whether or not they're OK with this kind of aid. However, for practice purposes, it should come in quite handy (as explained above)! :)
 
+I tried to start a [thread](https://artofmemory.com/forums/using-a-digital-metronome-in-memory-league-yay-or-nay) in the ArtOfMemory forum about this topic a few months ago, but didn't get much response. If you want to share your opinion on the topic, feel free to leave a comment there (or if you want to suggest a different place where that discussion can be held, let me know).
+
 ## How To Adjust The Script
 
 Adjusting the script is fairly straight-forward. There are just 2 numbers that you need to adjust. The lines in the code look as follows:
