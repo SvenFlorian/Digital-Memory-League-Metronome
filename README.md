@@ -2,7 +2,7 @@
 
 ----------
 
-Digital "Metronome" script that can be used for training purposes on the Memory League Website. The script works by simulating/generating right arrow key presses for you, at whatever speed/interval you decide. After a certain amount of time, it will also generate an "Enter" key press, ultimately ending your memorisation time. 
+Digital "Metronome" script that can be used for training purposes on the Memory League Website. The script works by generating *right arrow* key presses for you at whatever interval you decide. After a certain time, it will also generate an *Enter* key press, ultimately ending your memorisation time. 
 
 Only works with [AutoHotkey](https://autohotkey.com/) on Windows. Other platforms are, as far as I am aware, not supported.
 
